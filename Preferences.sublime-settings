@@ -1,0 +1,32 @@
+{
+	"bold_folder_labels": true,
+	"color_inactive_tabs": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".tmp/*",
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags",
+		"tmp/unused/*",
+		"coverage/*"
+	],
+	"font_size": 19,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		100
+	],
+	"sidebar_row_padding_medium": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": true
+}
