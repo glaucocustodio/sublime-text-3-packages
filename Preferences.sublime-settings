@@ -24,6 +24,7 @@
 	[
 		100
 	],
+	"show_full_path": true,
 	"sidebar_row_padding_medium": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
