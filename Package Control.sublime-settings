@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"Better RSpec",
 		"Color Highlighter",
 		"CTags",
