@@ -19,6 +19,7 @@
 ## Packages
 
 - <a target="_blank" href="https://sublime.wbond.net/packages/Better%20RSpec">Better RSpec</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Better%20CoffeeScript">Better CoffeeScript</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlighter">Color Highlighter</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
