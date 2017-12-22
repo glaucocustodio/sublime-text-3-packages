@@ -2,6 +2,7 @@
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
 	"ensure_newline_at_eof_on_save": true,
+	"save_on_focus_lost": true,
 	"file_exclude_patterns":
 	[
 		".tmp/*",
