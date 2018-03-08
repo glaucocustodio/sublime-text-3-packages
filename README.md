@@ -16,13 +16,20 @@
 - Look for `sidebar_label`, add `"font.size": 17` below `“color”`
 - Look for `sidebar_tree`, set `"row_padding": [16, 12, 16, 3]`
 
+## Add to path (macOS)
+
+`ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl`
+
 ## Packages
 
+- <a target="_blank" href="https://sublime.wbond.net/packages/ApplySyntax">ApplySyntax</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Better%20RSpec">Better RSpec</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Better%20CoffeeScript">Better CoffeeScript</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlighter">Color Highlighter</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
+- <a target="_blank" href="https://sublime.wbond.net/packages/Haml">Haml</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/PackageResourceViewer">PackageResourceViewer</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Sass">Sass</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/SideBarEnhancements">Side​Bar​Enhancements</a>
+- <a target="_blank" href="https://sublime.wbond.net/packages/TypeScript">TypeScript</a>

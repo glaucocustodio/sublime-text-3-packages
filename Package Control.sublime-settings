@@ -5,14 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"ApplySyntax",
 		"Better CoffeeScript",
 		"Better RSpec",
 		"Color Highlighter",
 		"CTags",
 		"GitGutter",
+		"Haml",
 		"Package Control",
 		"PackageResourceViewer",
 		"Sass",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"TypeScript"
 	]
 }
