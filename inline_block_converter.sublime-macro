@@ -1,0 +1,58 @@
+[
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "do"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"completion": "do",
+			"snippet": "",
+			"trigger": "do"
+		},
+		"command": "insert_completion"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"to": "eol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "\nend"
+		},
+		"command": "insert"
+	}
+]

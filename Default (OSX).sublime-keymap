@@ -1,0 +1,3 @@
+[
+  {"keys": ["super+i"], "command": "run_macro_file", "args": {"file": "Packages/User/inline_block_converter.sublime-macro"}}
+]
