@@ -19,5 +19,20 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+        {
+            // One could use just the second rule to match every ruby file in a /spec/
+            // directory, but I prefer to be more explicit.
+            "syntax": [
+                "RSpec/RSpec",
+                "RSpec (snippets and syntax)/Syntaxes/RSpec",
+                "Better RSpec/Better RSpec",
+                "RSpec Buddy/RSpec Buddy",
+            ],
+            "rules": [
+                {"file_path": ".*spec\\.rb$"},
+                {"file_path": ".*/spec/.*\\.rb$"},
+                {"file_path": ".*\\\\spec\\\\.*\\.rb$"}
+            ]
+        },
     ]
 }

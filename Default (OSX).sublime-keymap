@@ -1,3 +1,10 @@
 [
-  {"keys": ["super+i"], "command": "run_macro_file", "args": {"file": "Packages/User/inline_block_converter.sublime-macro"}}
+  {"keys": ["super+i"], "command": "run_macro_file", "args": {"file": "Packages/User/inline_block_converter.sublime-macro"}},
+  {
+        "keys": ["ctrl+shift+r"], "command": "send_code",
+        "args": {"cmd": "bundle exec rspec \"$file\""},
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "source.ruby" }
+        ]
+  },
 ]

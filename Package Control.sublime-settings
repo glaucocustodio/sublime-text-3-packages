@@ -7,14 +7,15 @@
 	[
 		"ApplySyntax",
 		"Better CoffeeScript",
-		"Better RSpec",
 		"Color Highlighter",
 		"CTags",
 		"GitGutter",
 		"Haml",
 		"Package Control",
 		"PackageResourceViewer",
+		"RSpec Buddy",
 		"Sass",
+		"SendCode",
 		"SideBarEnhancements",
 		"TypeScript"
 	]

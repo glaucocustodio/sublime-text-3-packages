@@ -23,13 +23,14 @@
 ## Packages
 
 - <a target="_blank" href="https://sublime.wbond.net/packages/ApplySyntax">ApplySyntax</a>
-- <a target="_blank" href="https://sublime.wbond.net/packages/Better%20RSpec">Better RSpec</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Better%20CoffeeScript">Better CoffeeScript</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlighter">Color Highlighter</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Haml">Haml</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/PackageResourceViewer">PackageResourceViewer</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/RSpec%20Buddy">RSpec Buddy</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Sass">Sass</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/SendCode">SendCode</a> (`ctrl+shift+r` to `bundle exec rspec` the current open file)
 - <a target="_blank" href="https://sublime.wbond.net/packages/SideBarEnhancements">Side​Bar​Enhancements</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/TypeScript">TypeScript</a>
