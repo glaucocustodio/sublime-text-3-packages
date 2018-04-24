@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require_relative '${1:attribute}'
+]]></content>
+  <tabTrigger>requirere</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require_relative ''</description>
+</snippet>
