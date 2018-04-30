@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-require_relative '${1:attribute}'
+require_relative '${1:file}'
 ]]></content>
   <tabTrigger>requirere</tabTrigger>
   <scope>source.ruby</scope>
-  <description>require_relative ''</description>
+  <description>require_relative 'file'</description>
 </snippet>
