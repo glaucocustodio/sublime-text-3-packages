@@ -26,6 +26,7 @@
 - <a target="_blank" href="https://packagecontrol.io/packages/Better%20CoffeeScript">Better CoffeeScript</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlighter">Color Highlighter</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Haml">Haml</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/PackageResourceViewer">PackageResourceViewer</a>
