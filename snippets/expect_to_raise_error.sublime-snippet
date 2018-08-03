@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect { ${1:subject} }.to raise_error(${2:error})
+]]></content>
+  <tabTrigger>expgtrerrb</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>expect { subject }.to raise_error(error)</description>
+</snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 expect(${1:subject}).to receive_messages(${2:message}: ${3:return})
 ]]></content>
-  <tabTrigger>expetrms</tabTrigger>
+  <tabTrigger>expetrmsa</tabTrigger>
   <scope>source.ruby.rspec</scope>
   <description>expect(subject).to receive_messages(message: return)</description>
 </snippet>
