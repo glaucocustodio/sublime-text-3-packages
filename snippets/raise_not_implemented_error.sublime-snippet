@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+raise ${1:NotImplementedError}
+]]></content>
+  <tabTrigger>raisn</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>raise NotImplementedError</description>
+</snippet>
