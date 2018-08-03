@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect { ${1:subject} }.to raise_error(${2:error})
+expect { ${1:subject} }.to raise_error(${2:NotImplementedError})
 ]]></content>
   <tabTrigger>expgtrerrb</tabTrigger>
   <scope>source.ruby.rspec</scope>
