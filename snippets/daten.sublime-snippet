@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Date.new(${1:year}, ${2:month}, ${3:day})
+]]></content>
+  <tabTrigger>daten</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>Date.new(year, month, day)</description>
+</snippet>
