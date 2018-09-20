@@ -9,7 +9,9 @@
 		".tags_sorted_by_file",
 		".gemtags",
 		"tmp/unused/*",
-		"coverage/*"
+		"coverage/*",
+		".DS_Store",
+		"tmp/cache"
 	],
 	"font_size": 20,
 	"highlight_line": true,

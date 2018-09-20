@@ -7,6 +7,7 @@
 	[
 		"ApplySyntax",
 		"Better CoffeeScript",
+		"Case Conversion",
 		"Color Highlighter",
 		"CTags",
 		"Emmet",
@@ -15,7 +16,7 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"RSpec Buddy",
-		"Sass",
+		"SCSS",
 		"SendCode",
 		"SideBarEnhancements",
 		"TypeScript"
