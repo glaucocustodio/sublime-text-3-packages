@@ -20,6 +20,12 @@
 
 `ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl`
 
+## Shortcuts
+
+- `super+i`: run macro `inline_block_converter`
+- `ctrl+shift+r`: bundle exec rspec $file
+- `ctrl+s`: reveal file in side bar
+
 ## Packages
 
 - <a target="_blank" href="https://sublime.wbond.net/packages/ApplySyntax">ApplySyntax</a>
