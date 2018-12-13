@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+get ${1:path}, params: ${2:params}${3:, headers: ${4:}}
+]]></content>
+  <tabTrigger>get</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>get path, params: params, headers:</description>
+</snippet>

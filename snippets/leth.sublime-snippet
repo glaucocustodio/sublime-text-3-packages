@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+let(:${1:params}) do
+  {
+    ${2:}
+  }
+end
+]]></content>
+  <tabTrigger>leth</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>let(:params) { {  } }
+  </description>
+</snippet>

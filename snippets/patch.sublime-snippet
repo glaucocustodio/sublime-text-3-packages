@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+patch "${1:}", params: ${2:params}${3:, headers: ${4:}}
+]]></content>
+  <tabTrigger>patch</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>patch "", params: params, headers:</description>
+</snippet>
