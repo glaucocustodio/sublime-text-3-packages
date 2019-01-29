@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+response.body
+]]></content>
+  <tabTrigger>responbody</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>response.body</description>
+</snippet>

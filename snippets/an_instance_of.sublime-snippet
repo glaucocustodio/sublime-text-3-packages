@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+an_instance_of(${1:Class})
+]]></content>
+  <tabTrigger>an_ins</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>an_instance_of(Class)</description>
+</snippet>

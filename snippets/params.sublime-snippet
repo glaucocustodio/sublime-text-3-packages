@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+params
+]]></content>
+  <tabTrigger>para</tabTrigger>
+  <scope>source.ruby.rails</scope>
+  <description>params</description>
+</snippet>

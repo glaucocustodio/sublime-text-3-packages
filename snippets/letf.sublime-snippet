@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-let(:${1:factory}) { create(:${1:factory}, ${2:attrs}) }
+let(:${1:factory}) { create(:${1:factory}${2:, attrs}) }
 ]]></content>
   <tabTrigger>letf</tabTrigger>
   <scope>source.ruby.rspec</scope>

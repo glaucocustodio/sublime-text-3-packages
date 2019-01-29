@@ -2,7 +2,7 @@
   <content><![CDATA[
 binding.pry
 ]]></content>
-  <tabTrigger>bin</tabTrigger>
+  <tabTrigger>bindin</tabTrigger>
   <scope>source.ruby</scope>
   <description>binding.pry</description>
 </snippet>

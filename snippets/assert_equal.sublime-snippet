@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+assert_equal ${1:}, ${2:}
+]]></content>
+  <tabTrigger>asserteq</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>assert_equal</description>
+</snippet>
