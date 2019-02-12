@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:variable} = mock('${1:variable}')
+]]></content>
+  <tabTrigger>mock</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>variable = mock('variable')</description>
+</snippet>

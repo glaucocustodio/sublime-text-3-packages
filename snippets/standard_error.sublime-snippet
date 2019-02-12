@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+StandardError${1:.new}
+]]></content>
+  <tabTrigger>standar</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>StandardError</description>
+</snippet>
