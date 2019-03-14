@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -13,7 +14,7 @@
 		".DS_Store",
 		"tmp/cache"
 	],
-	"font_size": 20,
+	"font_size": 21,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -30,6 +31,7 @@
 	"show_full_path": true,
 	"sidebar_row_padding_medium": true,
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",

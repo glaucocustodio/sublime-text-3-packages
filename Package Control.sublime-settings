@@ -9,16 +9,19 @@
 		"Better CoffeeScript",
 		"Case Conversion",
 		"Color Highlighter",
+		"Copy Relative Path",
 		"CTags",
 		"Emmet",
 		"GitGutter",
 		"Haml",
 		"Package Control",
 		"PackageResourceViewer",
+		"Pretty JSON",
 		"RSpec Buddy",
 		"SCSS",
 		"SendCode",
 		"SideBarEnhancements",
+		"Solarized Color Scheme",
 		"TypeScript"
 	]
 }

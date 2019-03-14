@@ -32,13 +32,16 @@
 - <a target="_blank" href="https://packagecontrol.io/packages/Better%20CoffeeScript">Better CoffeeScript</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Case%20Conversion">Case Conversion</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlighter">Color Highlighter</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Copy%20Relative%20Path">Copy Relative Path</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Haml">Haml</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/PackageResourceViewer">PackageResourceViewer</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Pretty%20JSON">Pretty JSON</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/RSpec%20Buddy">RSpec Buddy</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/SCSS">SCSS</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/SendCode">SendCode</a> (`ctrl+shift+r` to `bundle exec rspec` the current open file)
 - <a target="_blank" href="https://sublime.wbond.net/packages/SideBarEnhancements">Side​Bar​Enhancements</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Solarized%20Color%20Scheme">Solarized Color Scheme</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/TypeScript">TypeScript</a>
