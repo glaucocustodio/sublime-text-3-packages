@@ -25,6 +25,7 @@
 - `super+i`: run macro `inline_block_converter`
 - `ctrl+shift+r`: bundle exec rspec $file
 - `ctrl+s`: reveal file in side bar
+- `ctrl+c`: copy relative path of the current file to the clipboard
 
 ## Packages
 
@@ -32,7 +33,7 @@
 - <a target="_blank" href="https://packagecontrol.io/packages/Better%20CoffeeScript">Better CoffeeScript</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Case%20Conversion">Case Conversion</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlighter">Color Highlighter</a>
-- <a target="_blank" href="https://packagecontrol.io/packages/Copy%20Relative%20Path">Copy Relative Path</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Copy%20Relative%20Path">Copy Relative Path</a> (`ctrl+c` to copy relative path to clipboard)
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>

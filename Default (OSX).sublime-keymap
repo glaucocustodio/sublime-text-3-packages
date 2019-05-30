@@ -10,5 +10,9 @@
   {
     "keys": ["ctrl+s"],
     "command": "reveal_in_side_bar"
+  },
+  {
+    "keys": ["ctrl+c"],
+    "command": "copy_relative_path"
   }
 ]

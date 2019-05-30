@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-assert_equal ${1:}, ${2:}
+assert_equal ${1:expected}, ${2:actual}
 ]]></content>
   <tabTrigger>asserteq</tabTrigger>
   <scope>source.ruby</scope>
-  <description>assert_equal</description>
+  <description>assert_equal expected, actual</description>
 </snippet>
