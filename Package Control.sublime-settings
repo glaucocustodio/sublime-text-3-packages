@@ -8,7 +8,7 @@
 		"ApplySyntax",
 		"Better CoffeeScript",
 		"Case Conversion",
-		"Color Highlighter",
+		"Color Highlight",
 		"Copy Relative Path",
 		"CTags",
 		"Emmet",
@@ -17,11 +17,16 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"Pretty JSON",
+		"RainbowBrackets",
 		"RSpec Buddy",
 		"SCSS",
+		"Select Quoted",
 		"SendCode",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"TypeScript"
+	],
+	"repositories":
+	[
 	]
 }

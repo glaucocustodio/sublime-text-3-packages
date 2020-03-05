@@ -1,4 +1,5 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
@@ -14,7 +15,7 @@
 		".DS_Store",
 		"tmp/cache"
 	],
-	"font_size": 21,
+	"font_size": 23,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -23,9 +24,11 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"open_files_in_new_window": false,
 	"rulers":
 	[
-		100
+		100,
+		120
 	],
 	"save_on_focus_lost": true,
 	"show_full_path": true,
