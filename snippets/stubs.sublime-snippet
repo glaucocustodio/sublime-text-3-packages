@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+stubs(${1:}).returns(${2:})
+]]></content>
+  <tabTrigger>stubs</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>stubs().returns()</description>
+</snippet>
