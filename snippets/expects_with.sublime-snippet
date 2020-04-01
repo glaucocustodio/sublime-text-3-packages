@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expects(${1:}).with(${2:})
+]]></content>
+  <tabTrigger>expectw</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>expects().with()</description>
+</snippet>
