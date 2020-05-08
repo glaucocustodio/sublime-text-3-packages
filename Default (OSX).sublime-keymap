@@ -1,10 +1,33 @@
 [
-  {"keys": ["super+i"], "command": "run_macro_file", "args": {"file": "Packages/User/inline_block_converter.sublime-macro"}},
   {
-    "keys": ["ctrl+shift+r"], "command": "send_code",
-    "args": {"cmd": "bundle exec rspec \"$file\""},
+    "keys": ["super+i"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/inline_block_converter.sublime-macro"
+    }
+  },
+  {
+    "keys": ["ctrl+shift+r"],
+    "command": "send_code",
+    "args": {
+      "cmd": "LINE=; echo $file:$LINE | sed -e \"s|$folder||\" | xargs bundle exec m"
+    },
     "context": [
-        { "key": "selector", "operator": "equal", "operand": "source.ruby" }
+      {
+        "key": "selector", "operator": "equal", "operand": "source.ruby"
+      }
+    ]
+  },
+    {
+    "keys": ["ctrl+shift+r"],
+    "command": "send_code",
+    "args": {
+      "cmd": "bundle exec rspec \"$file\""
+    },
+    "context": [
+      {
+        "key": "selector", "operator": "equal", "operand": "source.ruby.rspec"
+      }
     ]
   },
   {

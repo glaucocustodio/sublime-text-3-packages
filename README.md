@@ -23,7 +23,7 @@
 ## Shortcuts
 
 - `super+i`: run macro `inline_block_converter`
-- `ctrl+shift+r`: bundle exec rspec $file
+- `ctrl+shift+r`: `bundle exec rspec $file` for rspec files and `bundle exec m $file` for ruby files
 - `ctrl+s`: reveal file in side bar
 - `ctrl+c`: copy relative path of the current file to the clipboard
 
@@ -44,7 +44,7 @@
 - <a target="_blank" href="https://packagecontrol.io/packages/RSpec%20Buddy">RSpec Buddy</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/SCSS">SCSS</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Select%20Quoted">Select Quoted</a>
-- <a target="_blank" href="https://packagecontrol.io/packages/SendCode">SendCode</a> (`ctrl+shift+r` to `bundle exec rspec` the current open file)
+- <a target="_blank" href="https://packagecontrol.io/packages/SendCode">SendCode</a> (`ctrl+shift+r` to test the current open file)
 - <a target="_blank" href="https://sublime.wbond.net/packages/SideBarEnhancements">Side​Bar​Enhancements</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Solarized%20Color%20Scheme">Solarized Color Scheme</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/TypeScript">TypeScript</a>
