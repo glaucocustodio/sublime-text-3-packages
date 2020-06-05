@@ -26,6 +26,8 @@
 - `ctrl+shift+r`: `bundle exec rspec $file` for rspec files and `bundle exec m $file` for ruby files
 - `ctrl+s`: reveal file in side bar
 - `ctrl+c`: copy relative path of the current file to the clipboard
+- `ctrl+x`: navigate to definition (ctags)
+- `ctrl+z`: return to previous definition (ctags)
 
 ## Packages
 

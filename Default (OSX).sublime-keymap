@@ -10,7 +10,7 @@
     "keys": ["ctrl+shift+r"],
     "command": "send_code",
     "args": {
-      "cmd": "LINE=; echo $file:$LINE | sed -e \"s|$folder||\" | xargs bundle exec m"
+      "cmd": "LINE=; echo $file:$LINE | sed -e \"s|$folder||\" | xargs -o bundle exec m"
     },
     "context": [
       {
@@ -37,5 +37,13 @@
   {
     "keys": ["ctrl+c"],
     "command": "copy_relative_path"
-  }
+  },
+  {
+      "command": "navigate_to_definition",
+      "keys": ["ctrl+x"]
+  },
+  {
+    "command": "jump_prev",
+    "keys": ["ctrl+z"]
+  },
 ]
