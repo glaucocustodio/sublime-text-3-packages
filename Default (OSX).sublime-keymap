@@ -10,7 +10,7 @@
     "keys": ["ctrl+shift+r"],
     "command": "send_code",
     "args": {
-      "cmd": "LINE=; echo $file:$LINE | sed -e \"s|$folder||\" | xargs -o bundle exec m"
+      "cmd": "L=; echo $file:$L | sed -e \"s|$folder||\" | xargs -o bundle exec m"
     },
     "context": [
       {
