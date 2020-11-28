@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+each_with_object${1:()} do |${2:current}, memo|
+  ${3}
+end
+]]></content>
+  <tabTrigger>each_with</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>each_with_object</description>
+</snippet>
