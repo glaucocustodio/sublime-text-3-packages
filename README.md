@@ -37,12 +37,14 @@
 - <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlight">Color Highlight</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Copy%20Relative%20Path">Copy Relative Path</a> (`ctrl+c` to copy relative path to clipboard)
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Elixir">Elixir</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Haml">Haml</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/PackageResourceViewer">PackageResourceViewer</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Pretty%20JSON">Pretty JSON</a>
-- <a target="_blank" href="https://packagecontrol.io/packages/RainbowBrackets">RainbowBrackets</a>
+- ~~<a target="_blank" href="https://packagecontrol.io/packages/RainbowBrackets">RainbowBrackets</a>~~
+- <a target="_blank" href="https://packagecontrol.io/packages/rainbow_csv">rainbow_csv</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/RSpec%20Buddy">RSpec Buddy</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/SCSS">SCSS</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Select%20Quoted">Select Quoted</a>
