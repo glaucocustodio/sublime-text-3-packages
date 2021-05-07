@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect_any_instance_of(${1:model}).to receive(${2})
+]]></content>
+  <tabTrigger>expectanio</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>expect_any_instance_of().to receive()</description>
+</snippet>
