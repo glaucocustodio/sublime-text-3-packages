@@ -1,13 +1,15 @@
 ## Restoring packages
 
-- Install ST3
-- Navigate to Packages dir (usually `/Users/user/Library/Application Support/Sublime Text 3/Packages`)
+- Install ST
+- Navigate to Packages dir (usually `/Users/user/Library/Application Support/Sublime Text/Packages`)
 - `rm -rf User`
 - `git clone https://github.com/glaucocustodio/sublime-text-3-packages User`
-- Open ST3 and install Package Control
+- Open ST and install Package Control
 - Wait some seconds (the packages will be downloaded)
 
 ## Overwriting ST settings (increase sidebar font and row padding)
+
+*this is not necessary anymore on ST4 since we can customize the theme (see `Default Dark.sublime-theme` file)*
 
 - Open Command Palette (cmd+shift+p)
 - Search for: `PackageResourceViewer: OpenResource`
@@ -17,6 +19,8 @@
 - Look for `sidebar_tree`, set `"row_padding": [16, 12, 16, 3]`
 
 ## Add to path (macOS)
+
+*this is not necessary anymore on ST4 since `subl` is already defined by default*
 
 `ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl`
 
@@ -41,7 +45,6 @@
 - <a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Haml">Haml</a>
-- <a target="_blank" href="https://packagecontrol.io/packages/PackageResourceViewer">PackageResourceViewer</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Pretty%20JSON">Pretty JSON</a>
 - ~~<a target="_blank" href="https://packagecontrol.io/packages/RainbowBrackets">RainbowBrackets</a>~~
 - <a target="_blank" href="https://packagecontrol.io/packages/rainbow_csv">rainbow_csv</a>
@@ -51,4 +54,3 @@
 - <a target="_blank" href="https://packagecontrol.io/packages/SendCode">SendCode</a> (`ctrl+shift+r` to test the current open file)
 - <a target="_blank" href="https://sublime.wbond.net/packages/SideBarEnhancements">Side​Bar​Enhancements</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Solarized%20Color%20Scheme">Solarized Color Scheme</a>
-- <a target="_blank" href="https://sublime.wbond.net/packages/TypeScript">TypeScript</a>

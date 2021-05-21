@@ -16,9 +16,7 @@
 		"Emmet",
 		"GitGutter",
 		"Haml",
-		"JSX",
 		"Package Control",
-		"PackageResourceViewer",
 		"Pretty JSON",
 		"rainbow_csv",
 		"RSpec Buddy",
@@ -28,9 +26,8 @@
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"Terraform",
-		"TypeScript"
 	],
 	"repositories":
 	[
-	]
+	],
 }
