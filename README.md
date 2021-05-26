@@ -1,7 +1,7 @@
 ## Restoring packages
 
 - Install ST
-- Navigate to Packages dir (usually `/Users/user/Library/Application Support/Sublime Text/Packages`)
+- Navigate to Packages dir (usually `"$HOME/Library/Application Support/Sublime Text/Packages"`)
 - `rm -rf User`
 - `git clone https://github.com/glaucocustodio/sublime-text-3-packages User`
 - Open ST and install Package Control

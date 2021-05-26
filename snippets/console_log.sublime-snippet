@@ -2,7 +2,7 @@
   <content><![CDATA[
 console.log(${1:output});
 ]]></content>
-  <tabTrigger>cons</tabTrigger>
-  <scope>source.js, source.ts</scope>
+  <tabTrigger>consol</tabTrigger>
+  <scope>source.js, source.ts, source.jsx</scope>
   <description>console.log(output);</description>
 </snippet>
