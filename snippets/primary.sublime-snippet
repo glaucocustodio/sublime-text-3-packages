@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+primary:
+  url: ${1:<%= p 'ℹ️  usando db replica!! ℹ️'; ENV.fetch("CLONE_URL") %> }
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+replica:
+  url: ${1:<%= ENV.fetch("CLONE_URL") %> }
+  replica: true
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+]]></content>
+  <tabTrigger>:primary</tabTrigger>
+  <scope>source.yaml</scope>
+  <description>primary: url:</description>
+</snippet>
