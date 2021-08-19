@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+rescue binding.pry
+]]></content>
+  <tabTrigger>rescueb</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>rescue binding.pry</description>
+</snippet>
