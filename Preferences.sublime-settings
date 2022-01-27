@@ -15,7 +15,10 @@
 		".DS_Store",
 		"tmp/cache"
 	],
-	"font_size": 20,
+	"folder_exclude_patterns": [
+		"node_modules/*", "tmp/cache/*", "tmp/miniprofiler"
+	],
+	"font_size": 21,
 	"caret_style": "smooth",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,

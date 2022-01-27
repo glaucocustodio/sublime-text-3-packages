@@ -11,6 +11,8 @@
 		"Color Highlight",
 		"Copy Relative Path",
 		"CTags",
+		"Dockerfile Syntax Highlighting",
+		"Dracula Color Scheme",
 		"EditorConfig",
 		"Elixir",
 		"Emmet",
@@ -26,6 +28,7 @@
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"Terraform",
+		"Whitespace Removal",
 	],
 	"repositories":
 	[

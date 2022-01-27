@@ -41,6 +41,7 @@
 - <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlight">Color Highlight</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Copy%20Relative%20Path">Copy Relative Path</a> (`ctrl+c` to copy relative path to clipboard)
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Dockerfile Syntax Highlighting">Dockerfile Syntax Highlighting</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Elixir">Elixir</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
@@ -50,7 +51,8 @@
 - <a target="_blank" href="https://packagecontrol.io/packages/rainbow_csv">rainbow_csv</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/RSpec%20Buddy">RSpec Buddy</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/SCSS">SCSS</a>
-- <a target="_blank" href="https://packagecontrol.io/packages/Select%20Quoted">Select Quoted</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Select%20Quoted">Select Quoted</a> (`cmd+'` to select quoted text)
 - <a target="_blank" href="https://packagecontrol.io/packages/SendCode">SendCode</a> (`ctrl+shift+r` to test the current open file)
 - <a target="_blank" href="https://sublime.wbond.net/packages/SideBarEnhancements">Side​Bar​Enhancements</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Solarized%20Color%20Scheme">Solarized Color Scheme</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/Whitespace%20Removal">Whitespace Removal</a> (select text and press `ctrl+command+backspace` to remove whitespaces)

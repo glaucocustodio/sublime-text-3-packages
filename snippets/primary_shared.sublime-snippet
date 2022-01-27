@@ -1,16 +1,16 @@
 <snippet>
   <content><![CDATA[
 primary:
-  url: <%= p 'ℹ️  usando db replica!! ℹ️'; ENV.fetch("CLONE_URL") %>
+  url: <%= p 'ℹ️  usando db replica!! ℹ️'; ENV.fetch("SHARED_CLONE_URL") %>
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   prepared_statements: false
 replica:
-  url: <%= ENV.fetch("CLONE_URL") %>
+  url: <%= ENV.fetch("SHARED_CLONE_URL") %>
   replica: true
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   prepared_statements: false
 ]]></content>
-  <tabTrigger>:primary</tabTrigger>
+  <tabTrigger>:primary_shared</tabTrigger>
   <scope>source.yaml</scope>
-  <description>primary: url:</description>
+  <description>primary: SHARED_CLONE_URL</description>
 </snippet>
