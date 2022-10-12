@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
+	"color_scheme": "Solarized (dark).sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -18,7 +18,7 @@
 	"folder_exclude_patterns": [
 		"node_modules/*", "tmp/cache/*", "tmp/miniprofiler"
 	],
-	"font_size": 21,
+	"font_size": 19,
 	"caret_style": "smooth",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -31,7 +31,7 @@
 	"open_files_in_new_window": false,
 	"rulers":
 	[
-		100,
+		// 100,
 		120
 	],
 	"save_on_focus_lost": true,

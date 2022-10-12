@@ -1,0 +1,27 @@
+// Settings in here override those in "LSP/LSP.sublime-settings"
+{
+  "clients": {
+      "ruby": {
+          "enabled": true,
+          "command": ["/Users/glauco/.asdf/shims/solargraph", "stdio"],
+          "languageId": "ruby",
+          "selector": "source.ruby | text.html.ruby",
+          "initializationOptions": {
+              "diagnostics": false
+          },
+          "scopes":
+          [
+            "source.ruby",
+            "source.ruby.rails"
+          ],
+          "syntaxes":
+          [
+            "Packages/Ruby/Ruby.sublime-syntax",
+            "Packages/Rails/Ruby on Rails.sublime-syntax",
+            "Packages/Rails/HTML (Rails).sublime-syntax"
+          ]
+      }
+  },
+  "log_debug": true,
+  "log_server": ["panel"]
+}

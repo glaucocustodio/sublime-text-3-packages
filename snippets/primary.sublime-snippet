@@ -2,12 +2,12 @@
   <content><![CDATA[
 primary:
   url: <%= p 'ℹ️  usando db replica!! ℹ️'; ENV.fetch("CLONE_URL") %>
-  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 10 } %>
   prepared_statements: false
 replica:
   url: <%= ENV.fetch("CLONE_URL") %>
   replica: true
-  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 10 } %>
   prepared_statements: false
 ]]></content>
   <tabTrigger>:primary</tabTrigger>

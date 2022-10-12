@@ -1,4 +1,4 @@
 {
-  "command": "/usr/local/bin/ctags",
+  "command": "/opt/homebrew/bin/ctags",
   "opts" : ["--exclude=node_modules", "--exclude=public/packs"]
 }
