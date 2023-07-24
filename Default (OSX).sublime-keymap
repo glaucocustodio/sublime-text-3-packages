@@ -7,6 +7,18 @@
     }
   },
   {
+    "keys": ["option+f"],
+    "command": "send_code",
+    "args": {
+      "cmd": "rubyfmt -i -- $file"
+    },
+    "context": [
+      {
+        "key": "selector", "operator": "equal", "operand": "source.ruby"
+      }
+    ]
+  },
+  {
     "keys": ["ctrl+shift+r"],
     "command": "send_code",
     "args": {
