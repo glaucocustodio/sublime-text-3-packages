@@ -38,7 +38,9 @@
 - <a target="_blank" href="https://sublime.wbond.net/packages/ApplySyntax">ApplySyntax</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Better%20CoffeeScript">Better CoffeeScript</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Case%20Conversion">Case Conversion</a>
-- <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlight">Color Highlight</a>
+- <a target="_blank" href="https://sublime.wbond.net/packages/Color%20Highlight">~~Color Highlight~~</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/ColorHelper">ColorHelper</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/QuickView">QuickView</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Copy%20Relative%20Path">Copy Relative Path</a> (`ctrl+c` to copy relative path to clipboard)
 - <a target="_blank" href="https://packagecontrol.io/packages/CTags">CTags</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Dockerfile Syntax Highlighting">Dockerfile Syntax Highlighting</a>
@@ -46,6 +48,8 @@
 - <a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/GitGutter">Git​Gutter</a>
 - <a target="_blank" href="https://sublime.wbond.net/packages/Haml">Haml</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/LSP">LSP</a>
+- <a target="_blank" href="https://packagecontrol.io/packages/LSP-copilot">LSP-copilot</a>
 - <a target="_blank" href="https://packagecontrol.io/packages/Pretty%20JSON">Pretty JSON</a>
 - ~~<a target="_blank" href="https://packagecontrol.io/packages/RainbowBrackets">RainbowBrackets</a>~~
 - <a target="_blank" href="https://packagecontrol.io/packages/rainbow_csv">rainbow_csv</a>

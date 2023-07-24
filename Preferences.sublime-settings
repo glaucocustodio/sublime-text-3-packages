@@ -31,8 +31,7 @@
 	"open_files_in_new_window": false,
 	"rulers":
 	[
-		// 100,
-		120
+		100,
 	],
 	"save_on_focus_lost": true,
 	"show_full_path": true,

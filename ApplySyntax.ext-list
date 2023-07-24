@@ -1,9 +1,12 @@
 {
 	"Bash":
 	[
+		".profile",
+		"ash",
 		"bash",
+		"bashrc",
 		"sh",
-		"zsh"
+		"zsh",
 	],
 	"HTML (Rails)":
 	[
@@ -41,15 +44,18 @@
 		"simplecov",
 		"thor"
 	],
-	"Ruby Haml":
+	/*"Ruby Haml":
 	[
 		"haml"
-	],
+	],*/
 	"Shell-Unix-Generic":
 	[
+		".profile",
+		"ash",
 		"bash",
+		"bashrc",
 		"sh",
-		"zsh"
+		"zsh",
 	],
 	"XML":
 	[
@@ -61,5 +67,20 @@
 		"YAML-tmLanguage",
 		"yml",
 		"yml.dist"
+	],
+	"JSON":
+	[
+		".babelrc",
+		".bowerrc",
+		".csslintrc",
+		".eslintrc",
+		".jscsrc",
+		".jshintrc",
+		".stylelintrc",
+		"geojson"
+	],
+	"HAML":
+	[
+		"haml"
 	],
 }

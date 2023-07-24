@@ -23,5 +23,6 @@
       }
   },
   "log_debug": true,
-  "log_server": ["panel"]
+  "log_server": ["panel"],
+  "show_diagnostics_panel_on_save": 0
 }
