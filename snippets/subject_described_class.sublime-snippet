@@ -2,7 +2,7 @@
   <content><![CDATA[
 subject { described_class.new(${1:args}) }
 ]]></content>
-  <tabTrigger>subject</tabTrigger>
+  <tabTrigger>subject_desc</tabTrigger>
   <scope>source.ruby.rspec</scope>
   <description>subject { described_class.new(args) }</description>
 </snippet>

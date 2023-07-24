@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+an_object_having_attributes(${1:attr}: ${2::value})
+]]></content>
+  <tabTrigger>an_objec</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>an_object_having_attributes(attr: :value)</description>
+</snippet>

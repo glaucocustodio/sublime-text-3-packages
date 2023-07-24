@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+instance_double(${1:Class}${2:, ${3:attrs}})$0
+]]></content>
+  <tabTrigger>instance_double</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>instance_double(Class, attrs)</description>
+</snippet>

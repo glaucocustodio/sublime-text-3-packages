@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+describe ".${1:description}" do
+  it do
+    $2
+  end
+end
+]]></content>
+  <tabTrigger>descrclassmethod</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>describe ".description" do</description>
+</snippet>
